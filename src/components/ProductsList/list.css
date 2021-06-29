@@ -1,0 +1,10 @@
+.MuiGrid-root {
+    align-content: space-around !important;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .MuiGrid-container {
+      align-content: space-around;
+    }
+  }
+  

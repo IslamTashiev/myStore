@@ -1,0 +1,291 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "title": "BMW / X - серия",
+      "sliderImages": [
+        "https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/ruRU/Images/YEEZY_BOOST_700_ENFLAME_AMBER_HP-d_tcm224-692218.jpg",
+        "https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/ruRU/Images/YEEZY_BOOST_700_ENFLAME_AMBER_HP-d_tcm224-692218.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "BMW / 1 - серия",
+      "sliderImages": [
+        "https://static.nike.com/a/images/f_auto/dpr_2.0/w_1328,c_limit/8d46e417-036f-4ce1-980b-7b1e47752c13/nike-just-do-it.jpg",
+        "https://static.nike.com/a/images/f_auto/w_1920,c_limit/0c029a94-ec88-4c53-bae8-557c35154c62/image.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "BMW / 2 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "BMW / 3 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "BMW / 4 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "BMW / 5 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "BMW / 6 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "BMW / 7 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "BMW / 8 - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "BMW / Z - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "BMW / M - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "BMW / i - серия",
+      "sliderImages": [
+        "https://ru.puma.com/media/contentmanager/content/21SS_ECOM_MF_SP_SELECT_Felipe_Pantone_SplitHeroLeft_Tab__1536x1536_1.jpg",
+        "https://ru.puma.com/media/contentmanager/content/3_1536x1536_3.jpg"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "brand": 1,
+      "title": "BMW XYZ",
+      "price": 15999,
+      "description": "С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий hfjsdbfdsbds. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях sbdhsjb.",
+      "images": [
+        "https://www.webtekno.com/images/editor/default/0002/17/9182cd10d236e73930df1fae0f949c29a6f315d2.jpeg"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": 1,
+      "title": "BMW Q8",
+      "price": "20000",
+      "description": "С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий hfjsdbfdsbds. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях sbdhsjb",
+      "images": [
+        "https://media.ed.edmunds-media.com/bmw/x5/2021/oem/2021_bmw_x5_4dr-suv_xdrive45e_fq_oem_4_1600.jpg"
+      ],
+      "year": "2018",
+      "engine": "4.8"
+    },
+    {
+      "id": 3,
+      "brand": 1,
+      "title": "BMW R45",
+      "price": 12999,
+      "description": "Встречай будущее в этих dhsdvsdj. Модель в стиле ретро-техноhfjs. Верх из сетки и термополиуретана представлен в новых цветах и отдает дань уважения инновационному духу ZX. Половина промежуточной fndjsfsk Boost скрыта полупрозрачным пяточным каркасом для дополнительного комфорта и поддержки.",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90411287-highres-the-new-bmw-m5-cs-01-1617902730.jpg?crop=0.641xw:0.640xh;0.209xw,0.334xh&resize=640:*"
+      ],
+      "year": "2019",
+      "engine": "3"
+    },
+    {
+      "title": "BMW T4",
+      "brand": 1,
+      "price": "6000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "images": [
+        "https://www.tuningblog.eu/wp-content/uploads/2020/08/Tuning-FF-Retrofittings-FFR-BMW-M340iJava-Green-G20-Header.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "id": 6,
+      "brand": 1,
+      "title": "BMW SS3",
+      "price": 15999,
+      "description": "Когда мы впервые запустили Ultraboost, это были лучшие jsfksf в нашей истории. С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий jnkss Primeknit+ и на 6% больше капсул Boost в jsfsffa. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях стопы.",
+      "images": [
+        "https://www.bmw-m.com/content/dam/bmw/marketBMW_M/common/topics/magazine-article-pool/2018/bmw-m-colours-vol-2/bmw-m-colours-vol-2-di-01-1185xflex.jpg",
+        "https://www.bmw-m.com/content/dam/bmw/marketBMW_M/common/topics/magazine-article-pool/2018/bmw-m-colours-vol-2/bmw-m-colours-vol-2-di-01-1185xflex.jpg",
+        "https://www.bmw-m.com/content/dam/bmw/marketBMW_M/common/topics/magazine-article-pool/2018/bmw-m-colours-vol-2/bmw-m-colours-vol-2-di-01-1185xflex.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": 1,
+      "title": "BMW XY",
+      "price": "20000",
+      "description": "Когда мы впервые запустили Ultraboost, это были лучшие jsfksf в нашей истории. С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий jnkss Primeknit+ и на 6% больше капсул Boost в jsfsffa. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях стопы.",
+      "images": [
+        "http://dupontregistrytampabay.com/wp-content/uploads/2017/03/Auto_4_BMW.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": 1,
+      "title": "BMW L90",
+      "price": 12999,
+      "description": "Когда мы впервые запустили Ultraboost, это были лучшие jsfksf в нашей истории. С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий jnkss Primeknit+ и на 6% больше капсул Boost в jsfsffa. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях стопы.",
+      "images": [
+        "https://robbreport.com/wp-content/uploads/2015/10/bmw-m2-011.jpg?w=1000",
+        "https://robbreport.com/wp-content/uploads/2015/10/bmw-m2-011.jpg?w=1000"
+      ]
+    },
+    {
+      "title": "BMW G6",
+      "brand": 1,
+      "price": "6000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "images": [
+        "https://www.byri.net/wp-content/uploads/2021/03/New-BMW-M3-grows-to-600-horsepower-thanks-to-Manhart.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "title": "BMW H6",
+      "brand": 1,
+      "price": "6000",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "images": [
+        "https://cdn.pocket-lint.com/r/s/1200x/assets/images/145044-cars-review-bmw-i8-review-lead-image1-bemvtmxvel.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "id": 11,
+      "brand": 2,
+      "title": "BMW L90",
+      "price": 14000,
+      "category": "Nike",
+      "description": "Когда мы впервые запустили Ultraboost, это были лучшие jsfksf в нашей истории. С каждой новой версией мы поднимаем планку. Теперь ты получаешь амортизацию, о которой даже не подозревал, и возврат энергии, которого ты всегда хотел. У этой модели поддерживающий jnkss Primeknit+ и на 6% больше капсул Boost в jsfsffa. Она заряжает каждый шаг дополнительной энергией благодаря системе Linear Energy Push, которая обеспечивает поддержку в передней и средней частях стопы.",
+      "images": [
+        "https://mediapool.bmwgroup.com/cache/P9/202009/P90400000/P90400000-the-new-bmw-128ti-09-2020-2247px.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Jordan Delta 2",
+      "price": 14000,
+      "brand": 2,
+      "description": "The radiance lives on in the Force 1 Low. This b-ball OG puts a fresh spin on what you know best: crisp leather, bold colours and the perfect amount of flash to help you shine. The upper features a digital print Swoosh that rides all the way to the back, leading to a flashy, textured backtab.",
+      "images": [
+        "https://mediacloud.carbuyer.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1615200081/autoexpress/2021/03/BMW%20M4%20Competition%202021%20UK-18.jpg"
+      ]
+    },
+    {
+      "title": "ascas",
+      "price": "2333",
+      "description": "ascas",
+      "brand": "2",
+      "images": [
+        "https://www.climaxcomputer.com/wp-content/uploads/2020/05/New-Apple-Macbook-Air-Gold-New.jpg"
+      ],
+      "id": 16
+    },
+    {
+      "title": "ascascasc",
+      "price": "223332",
+      "description": "casсфЫСфЫс",
+      "brand": "2",
+      "images": [
+        "http://www.foroffice.ru/upload/iblock/a56/11148.30_2_1000x1000.jpg"
+      ],
+      "id": 17
+    },
+    {
+      "title": "sacasdasc",
+      "price": "2132",
+      "description": "фысфыс",
+      "brand": "8",
+      "images": [
+        "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUSEhgSFRUYGBgYGBESGBgaGBgYGBEYGBQZGRgYGBgcIS4lHB4rHxgYJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QGBISHjQhISE0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDE0NDQ0NDQ0NDQ0ND80P//AABEIAKgBLAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAAAQIDBAUHBv/EAEEQAAIBAwIDBQUGAwYFBQAAAAECAAMREgQhBTFBE1FhcZEGIjKBoUJSYrHB0YKS8AcUFXKi4SODwtLxFkNTk7L/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAHREBAQEAAwEAAwAAAAAAAAAAAAERAhIhMUFRYf/aAAwDAQACEQMRAD8A7FC0UCIy9RzgLaFpFmRa484/tV235wHYwtFvEyF7QCLaLaFpA20CI6JAaVjZLEKwIrRbSTGJjLoZCOtC0BojgIoWIzAQFhIxWF5JcRgierjzkiMDylLUqbyOm5B2m+uxnfWlEY2lYai/gYPVvJ1q6sgxbyqlS20lWoDzi8bDUpjBGl7RA0mGnMZG7t0isZEzTUiWpFqnkYpaQXhlL1NSExpMheuF5n95WfWn7I+Z/aXE1evIqmrReZv4DeZlSozcyfLp6SO0YauVOIMfhAHidzKpqud8mhjDGUepEIQnFshF5WqaQHkbSzlC8bgoEOsUai/OXS0r1Kamall+piNKxHWTCtKj07cjIy5E11lTcaHaxQ/jM9aseHjqdl4NFyMqLWkyVAZm8cWVMrx95AWtIHqGTDV0tFlIVjDtT3y4auESpWFj1MarsOsV6t4k9S1HeOVyJE7xnaTpms6sNv1keMiLRrVDLIamygWlY1ow1ZcZ7LQaSK8oGtFWtGJ2aIeOVpRWpFOp7pmxucl8mRPVUczKDVmPW3lI5Iurb"
+      ],
+      "id": 18
+    },
+    {
+      "title": "qwdqwd",
+      "price": "22222",
+      "description": "asdcscasc",
+      "brand": "4",
+      "images": [
+        "https://www.bmw.kg/content/dam/bmw/common/home/teaser/bmw-xseries-x6-hometeaser-sp-xxl.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1566826143551.jpg"
+      ],
+      "id": 19
+    },
+    {
+      "title": "Nurdin",
+      "price": "23",
+      "description": "фысфысф",
+      "brand": "4",
+      "images": [
+        "https://www.climaxcomputer.com/wp-content/uploads/2020/05/New-Apple-Macbook-Air-Gold-New.jpg"
+      ],
+      "id": 21
+    },
+    {
+      "title": "Кыргызтест",
+      "price": "23",
+      "description": "ascasc",
+      "brand": "sasacasc",
+      "images": [
+        "http://www.foroffice.ru/upload/iblock/a56/11148.30_2_1000x1000.jpg"
+      ],
+      "id": 22
+    },
+    {
+      "title": "X 5",
+      "price": "123456",
+      "description": "ascasca",
+      "brand": "1",
+      "images": [
+        "https://www.bmw.kg/content/dam/bmw/common/home/teaser/bmw-xseries-x6-hometeaser-sp-xxl.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1566826143551.jpg"
+      ],
+      "year": "2020",
+      "id": 23
+    }
+  ]
+}

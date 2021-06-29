@@ -1,0 +1,20 @@
+.icons {
+  width: 80px;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10px;
+}
+.icons img {
+  width: 30px;
+  height: auto;
+  cursor: pointer;
+}
+.card {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.form button {
+margin-left: 0;
+}
